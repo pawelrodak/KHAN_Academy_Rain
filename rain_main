@@ -2,7 +2,7 @@ var xPositions = [200];
 var yPositions = [0];
 var ySpeeds=[0];
 var dropletColors=[color(61, 184, 245)];
-var droplets=2;
+var droplets=20;
 
 //droplet
 
