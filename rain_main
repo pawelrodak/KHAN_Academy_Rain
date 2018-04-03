@@ -44,10 +44,3 @@ draw = function() {
         }
     }
 };
-
-mouseClicked=function(){
- 
-xPositions.push(mouseX);
-yPositions.push(mouseY);
-
-};
